@@ -1,0 +1,5 @@
+{
+  "name": "Light Novel Reader",
+  "description": "A sleek, mobile-first web application designed for an immersive reading experience of light novels, featuring page navigation, an interactive table of contents, and a beautiful, dark-themed UI.",
+  "requestFramePermissions": []
+}
